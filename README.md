@@ -1,2 +1,2 @@
 # Security-Camera-System
-Code for a security camera that takes recordings based on when movement and a face + body is detected. Made using OpenCV. 
+This project focuses on developing a security camera system for the device which is capable of capturing recordings based on the detection of both movement and the presence of a person's face or body. The implementation relies on OpenCV library. Code has been provided for the local system. 
